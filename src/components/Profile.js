@@ -8,7 +8,7 @@ function Profile() {
             <Row>
                 <div className="col col-md-3">
                     <Card>
-                        <Card.Img variant="top" src="/img/profile.png" roundedCircle />
+                        <Card.Img variant="top" src="/portfolio/img/profile.jpg" />
                         <Card.Body>
                             <Card.Title>Maximiliano Mainero</Card.Title>
                             <Card.Subtitle className="mb-2 text-muted">Computer Science</Card.Subtitle>
@@ -16,7 +16,7 @@ function Profile() {
                                 From Santa Fe, Argentina<br/>
                                 Birth 10/10/1996
                             </Card.Text>
-                            <Card.Link href="https://drive.google.com/file/d/0B4cuTtgX0zJLaE5ZUXcwOVM0Y0xYeThic0ZJUS1GSmg5Wjc0/view?usp=sharing&resourcekey=0-PFln7uuA9a3rDe9YVmvYLQ" target="_blank">Resume</Card.Link>
+                            <Card.Link href="https://docs.google.com/document/d/1v0m-hYVNmJ1mNyidO1gyeZhe_60QTJzrntO61Fxhm-c/" target="_blank">Resume</Card.Link>
                         </Card.Body>
                     </Card>
                     <br/>
